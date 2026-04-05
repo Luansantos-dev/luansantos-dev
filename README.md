@@ -69,8 +69,8 @@ Currently working as a Data Analyst at **Itaparica Tour Operadora**, where I aut
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=luansantos-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luansantos-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Luansantos-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luansantos-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
