@@ -66,12 +66,12 @@ Currently working as a Data Analyst at **Itaparica Tour Operadora**, where I aut
 
 ---
 
-### GitHub Stats
+### Currently focused on
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Luansantos-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luansantos-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- 🔨 Angular applications for client acquisition
+- 📊 Business dashboards with Power BI
+- ⚙️ Process automation with N8N and Google Sheets
+- 🚀 Deploying projects with real use cases
 
 ---
 
