@@ -65,8 +65,6 @@ Currently working as a Data Analyst at **Itaparica Tour Operadora**, where I aut
 | **[Portfolio](https://github.com/luansantos-dev/portfolio)** | Personal portfolio showcasing front-end projects and skills | Angular 18+ · Standalone Components · CSS3 | [portfolio-higino.vercel.app](https://portfolio-higino.vercel.app/) |
 | **[CRUD Users](https://github.com/luansantos-dev/crud-users)** | Full-featured user management application with create, read, update, delete operations | Angular · Angular Material · TypeScript | [crud-users-nu.vercel.app](https://crud-users-nu.vercel.app) |
 | **[User Filters](https://github.com/luansantos-dev/user-filters)** | Advanced user filtering and search interface with real-time data manipulation | Angular · CSS3 · TypeScript | [usersfilter.vercel.app](https://usersfilter.vercel.app/) |
-| **[Anubis Ink Atelier](https://github.com/luansantos-dev/anubisink)** | Website for a tattoo studio with portfolio gallery and contact integration | Angular · CSS3 · Responsive Design | [anubisink.vercel.app](https://anubisink.vercel.app) |
-
 ---
 
 ### Currently focused on
