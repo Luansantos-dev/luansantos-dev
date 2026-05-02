@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm Luan Santos 👋</h1>
-
 <p align="center">
   <b>Front-End Developer · Angular · TypeScript · Data Analysis</b><br/>
   Building interfaces and automations that drive real business impact.
 </p>
-
 <p align="center">
   <a href="https://linkedin.com/in/luansantosdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -12,7 +10,7 @@
   <a href="mailto:luansantos.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="(https://portfolio-higino.vercel.app/" target="_blank">
+  <a href="https://portfolio-higino.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
@@ -41,6 +39,7 @@ Currently working as a Data Analyst at **Itaparica Tour Operadora**, where I aut
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Data & Backend**
 
@@ -55,6 +54,7 @@ Currently working as a Data Analyst at **Itaparica Tour Operadora**, where I aut
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -62,19 +62,38 @@ Currently working as a Data Analyst at **Itaparica Tour Operadora**, where I aut
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
-| [Anubis Ink Atelier](https://github.com/Luansantos-dev/anubisink) | Website for a tattoo studio with gallery and contact | Angular · CSS3 | [anubisink.vercel.app](https://anubisink.vercel.app) |
+| **[Portfolio](https://github.com/luansantos-dev/portfolio)** | Personal portfolio showcasing front-end projects and skills | Angular 18+ · Standalone Components · CSS3 | [portfolio-higino.vercel.app](https://portfolio-higino.vercel.app/) |
+| **[CRUD Users](https://github.com/luansantos-dev/crud-users)** | Full-featured user management application with create, read, update, delete operations | Angular · Angular Material · TypeScript | [crud-users-nu.vercel.app](https://crud-users-nu.vercel.app) |
+| **[User Filters](https://github.com/luansantos-dev/user-filters)** | Advanced user filtering and search interface with real-time data manipulation | Angular · CSS3 · TypeScript | [usersfilter.vercel.app](https://usersfilter.vercel.app/) |
+| **[Anubis Ink Atelier](https://github.com/luansantos-dev/anubisink)** | Website for a tattoo studio with portfolio gallery and contact integration | Angular · CSS3 · Responsive Design | [anubisink.vercel.app](https://anubisink.vercel.app) |
 
 ---
 
 ### Currently focused on
 
-- 🔨 Angular applications for client acquisition
-- 📊 Business dashboards with Power BI
-- ⚙️ Process automation with N8N and Google Sheets
-- 🚀 Deploying projects with real use cases
+- 🔨 Angular applications for client acquisition and business automation
+- 📊 Data dashboards with Power BI and analytics integration
+- ⚙️ Process automation workflows with N8N and Google Sheets
+- 🚀 Building and deploying production-grade projects with real-world use cases
+- 📈 Scaling web products under **Axion Hub** brand
+
+---
+
+### Key Achievements
+
+- **40% reduction** in operational reporting time through workflow automation (SQL + Power BI)
+- **3 production Angular applications** deployed on Vercel with zero downtime
+- **End-to-end automation systems** for tattoo studios and SMBs using N8N + Google Sheets + WhatsApp API
+- **Data-driven decision support** for tour operators using custom SQL dashboards
 
 ---
 
 <p align="center">
   <i>Open to front-end and data roles — remote or Salvador, BA.</i>
+</p>
+
+---
+
+<p align="center">
+  <strong>Last updated:</strong> May 2026
 </p>
