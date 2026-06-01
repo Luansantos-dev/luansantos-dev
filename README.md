@@ -19,7 +19,7 @@
 
 ### About me
 
-I'm a Front-End Developer based in Salvador, Brazil, focused on Angular, TypeScript, and data-driven web solutions. I work at the intersection of development and analytics — building interfaces that look good and dashboards that support real decisions.
+I'm a Full Stack Developer based in Salvador, Brazil, focused on Angular, TypeScript, and data-driven web solutions. I work at the intersection of development and analytics — building interfaces that look good and dashboards that support real decisions.
 
 Currently working as a Data Analyst at **Itaparica Tour Operadora**, where I automated reporting workflows and reduced operational time by **40%** using SQL, Power BI, and Google Sheets.
 
