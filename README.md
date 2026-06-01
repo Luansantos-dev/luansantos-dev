@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Luan Santos 👋</h1>
 <p align="center">
-  <b>Front-End Developer · Angular · TypeScript · Data Analysis</b><br/>
+  <b>Full Stack Developer · Angular · TypeScript · NodeJs</b><br/>
   Building interfaces and automations that drive real business impact.
 </p>
 <p align="center">
